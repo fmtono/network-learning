@@ -33,6 +33,6 @@ enable secret cisco
 ```
 
 ## SCP
-dir flash: ファイル名確認
-scp cisco@192.168.1.1:/ファイル名 ./
-scp ./ cisco@192.168.1.1:/ファイル名
+- dir flash: ファイル名確認
+- scp cisco@192.168.1.1:/ファイル名 ./
+- scp ./ cisco@192.168.1.1:/ファイル名

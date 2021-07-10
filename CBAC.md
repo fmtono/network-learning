@@ -78,5 +78,8 @@ Inspection Rule Configuration
     udp alert is on audit-trail is off timeout 30
     icmp alert is on audit-trail is off timeout 10
     ftp alert is on audit-trail is off timeout 3600
+#
+# show ip inspect sessions
+Established Sessions
+ Session 84FFBA74 (192.168.1.2:8)=>(10.2.1.1:0) icmp SIS_OPEN
 ```
-
